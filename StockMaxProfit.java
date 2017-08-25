@@ -1,5 +1,3 @@
-package ProblemSetI;
-
 public class StockMaxProfit {
 	// Case first : buy once sell once
 	public void MaxProfitBuySellOnce(int stockPrices[]) {
