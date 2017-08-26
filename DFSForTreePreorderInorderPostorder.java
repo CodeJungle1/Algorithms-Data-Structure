@@ -1,5 +1,3 @@
-package RePracticeAlgo;
-
 public class DFSForTreePreorderInorderPostorder {
 	static class Tree {
 		int value;
